@@ -1,7 +1,8 @@
 #####
 Progress Bar On Page Scroll Using React functional component  and styled-components
 
-![GitHub Logo](https://res.cloudinary.com/joel116/image/upload/v1571443242/progressbar.png)
+![Progress Bar UI](https://res.cloudinary.com/joel116/image/upload/v1571443242/progressbar.png "React function component")
+
 
 ## Available Scripts
 
